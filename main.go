@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-
+	fmt.Println("test")
 	var r response.Respon
 
 	h := api.Handler{
